@@ -7,7 +7,7 @@ int main(){
 	int num2[len];
 	cin >> len;
 	for (int i = 0; i < len; i++){
-		cin >> num1[i] >> num2[i];
+		cin >> num1[i] >> num2[i]
 	}
 
 	for (int i = 0; i < len; i++){
